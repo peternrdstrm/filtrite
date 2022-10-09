@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/adblock.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
+https://fanboy.co.nz/enhancedstats.txt
